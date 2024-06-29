@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "446389456516",
+    "project_id": "narad-5920c",
+    "storage_bucket": "narad-5920c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446389456516:android:5ec200025a0f6575707cd1",
+        "android_client_info": {
+          "package_name": "com.app.advanceflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446389456516-0dom9npkfhthi613lutc9rhlhtmcl754.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8ke-FVsO2qgz8ahVm6LiEBc5F838WdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446389456516-0dom9npkfhthi613lutc9rhlhtmcl754.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446389456516-0pr1cb0bj9gfcs19jjpd8o5j73muf315.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.social.narad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446389456516:android:a374586c6a1e3031707cd1",
+        "android_client_info": {
+          "package_name": "com.social.narad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446389456516-imtgntk8luernbrtjtll6htvotelcj5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social.narad",
+            "certificate_hash": "a41c9500d485d27a4cb2503d094c42f767554c45"
+          }
+        },
+        {
+          "client_id": "446389456516-0dom9npkfhthi613lutc9rhlhtmcl754.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8ke-FVsO2qgz8ahVm6LiEBc5F838WdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446389456516-0dom9npkfhthi613lutc9rhlhtmcl754.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446389456516-0pr1cb0bj9gfcs19jjpd8o5j73muf315.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.social.narad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
